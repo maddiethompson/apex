@@ -1,4 +1,5 @@
 # Introduction
+
 ## About this Workshop
 In this workshop, you will create an application that allows you and your friends to search for books and create personal libraries. You will use the [Google Books API](https://developers.google.com/books/docs/v1/using), which is a database that contains a large amount of data about a vast number of books. Google Books has an extensive API that you will access in this workshop to search for books, and get book details.
 
